@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomStyle">
+        <attr name="text_color" format="color" />
+        <attr name="text_size" format="dimension" />
+        <attr name="background_color" format="color" />
+        <attr name="complex" format="integer" />
+    </declare-styleable>
+</resources>
